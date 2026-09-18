@@ -1,0 +1,7 @@
+7d3373bd554d1d1c5797a67a5ebc98ea11c628bb6804df62dbc0e0badee6a7c8  discovery-agent-1.0.0-macos-arm64.tar.gz
+531659e399e67d6c7e21f5cac70c9ee9f2dc13a9e188d49ce9252c31a58cf9ba  discovery-agent-1.0.0-macos-x86_64.tar.gz
+57cda6b3cb343c3b2f24134111c8206eb7fcd8349425a667a0955e99569b7028  discovery-agent-1.0.0-windows-x86_64.zip
+184f29c8e927539f2231c5559e909cd6a20bc166222a45714bc3f07138ab8192  discovery-agent-1.0.0-linux-arm64.deb
+9c1626d1a57ee63550e8276d38b20c675051483d1613329e0a9c0d53e8ef1707  discovery-agent-1.0.0-linux-x86_64.deb
+55d1345efae72b8046490ed2313c32e2ebd320ac275e8fb19cfb252e58ed9c88  discovery-agent-1.0.0-linux-arm64.rpm
+960090f8b9b5fd41a80fcd751537e9722f3fd6c58f409b355b40330ea64d19b1  discovery-agent-1.0.0-linux-x86_64.rpm
