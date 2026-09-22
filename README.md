@@ -6,19 +6,19 @@
 [discovery-info](https://github.com/seelentov/discovery-info), удобная страница
 скачивания с описанием — на [лендинге](https://seelentov.github.io/discovery-landing/download.html).
 
-## Актуальная версия — 1.0.0
+## Актуальная версия — 1.1.0
 
 | Платформа | Файл | Размер |
 |---|---|---|
-| macOS (Apple Silicon) | [`v1.0.0/discovery-agent-1.0.0-macos-arm64.tar.gz`](v1.0.0/discovery-agent-1.0.0-macos-arm64.tar.gz) | 16 МБ |
-| macOS (Intel) | [`v1.0.0/discovery-agent-1.0.0-macos-x86_64.tar.gz`](v1.0.0/discovery-agent-1.0.0-macos-x86_64.tar.gz) | 17 МБ |
-| Windows (x86_64) | [`v1.0.0/discovery-agent-1.0.0-windows-x86_64.zip`](v1.0.0/discovery-agent-1.0.0-windows-x86_64.zip) | 24 МБ |
-| Linux x86_64 (Debian/Ubuntu) | [`v1.0.0/discovery-agent-1.0.0-linux-x86_64.deb`](v1.0.0/discovery-agent-1.0.0-linux-x86_64.deb) | 9,5 МБ |
-| Linux arm64 (Debian/Ubuntu) | [`v1.0.0/discovery-agent-1.0.0-linux-arm64.deb`](v1.0.0/discovery-agent-1.0.0-linux-arm64.deb) | 8,4 МБ |
-| Linux x86_64 (Fedora/RHEL) | [`v1.0.0/discovery-agent-1.0.0-linux-x86_64.rpm`](v1.0.0/discovery-agent-1.0.0-linux-x86_64.rpm) | 10 МБ |
-| Linux arm64 (Fedora/RHEL) | [`v1.0.0/discovery-agent-1.0.0-linux-arm64.rpm`](v1.0.0/discovery-agent-1.0.0-linux-arm64.rpm) | 9,7 МБ |
+| macOS (Apple Silicon) | [`v1.1.0/discovery-agent-1.1.0-macos-arm64.tar.gz`](v1.1.0/discovery-agent-1.1.0-macos-arm64.tar.gz) | 16 МБ |
+| macOS (Intel) | [`v1.1.0/discovery-agent-1.1.0-macos-x86_64.tar.gz`](v1.1.0/discovery-agent-1.1.0-macos-x86_64.tar.gz) | 17 МБ |
+| Windows (x86_64) | [`v1.1.0/discovery-agent-1.1.0-windows-x86_64.zip`](v1.1.0/discovery-agent-1.1.0-windows-x86_64.zip) | 24 МБ |
+| Linux x86_64 (Debian/Ubuntu) | [`v1.1.0/discovery-agent-1.1.0-linux-x86_64.deb`](v1.1.0/discovery-agent-1.1.0-linux-x86_64.deb) | 9,5 МБ |
+| Linux arm64 (Debian/Ubuntu) | [`v1.1.0/discovery-agent-1.1.0-linux-arm64.deb`](v1.1.0/discovery-agent-1.1.0-linux-arm64.deb) | 8,4 МБ |
+| Linux x86_64 (Fedora/RHEL) | [`v1.1.0/discovery-agent-1.1.0-linux-x86_64.rpm`](v1.1.0/discovery-agent-1.1.0-linux-x86_64.rpm) | 10 МБ |
+| Linux arm64 (Fedora/RHEL) | [`v1.1.0/discovery-agent-1.1.0-linux-arm64.rpm`](v1.1.0/discovery-agent-1.1.0-linux-arm64.rpm) | 9,7 МБ |
 
-Контрольные суммы — [`v1.0.0/SHA256SUMS.txt`](v1.0.0/SHA256SUMS.txt). Условия
+Контрольные суммы — [`v1.1.0/SHA256SUMS.txt`](v1.1.0/SHA256SUMS.txt). Условия
 использования — [`v1.0.0/LICENSE.md`](v1.0.0/LICENSE.md) (тот же файл лежит и внутри
 каждого архива).
 
